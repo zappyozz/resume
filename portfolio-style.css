@@ -1,0 +1,118 @@
+header {
+    background-color: rgb(41, 41, 41);
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-top: 35px;
+}
+
+.career {
+    font-size: 15px;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 100%;
+}
+
+nav a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin: 24px;
+}
+
+.mainpic img {
+    margin-top: 12px;
+    max-width: 100%;
+    height: auto;
+}
+
+.suppic img {
+    margin-top: 12px;
+    max-width: 95%;
+    height: auto;
+    text-align: center;
+}
+
+.suppic2 img {
+    margin-top: 12px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.port-title {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.port-title a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.break-line {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper-slide {
+    width: 40%;
+}
+
+.swiper-slide:nth-child(2n) {
+    width: 40%;
+}
+
+.swiper-slide:nth-child(3n) {
+    width: 40%;
+}

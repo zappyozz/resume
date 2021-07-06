@@ -1,0 +1,56 @@
+header {
+    background-color: rgb(41, 41, 41);
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-top: 35px;
+}
+
+.career {
+    font-size: 15px;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 100%;
+}
+
+nav a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.enclose {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact-topic-right {
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+
+.contact-topic {
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    margin-top: 275px;
+}

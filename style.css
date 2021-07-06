@@ -1,0 +1,93 @@
+header {
+    background-color: rgb(41, 41, 41);
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-top: 35px;
+}
+
+.career {
+    font-size: 15px;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 100%;
+}
+
+nav a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.profile-container .profile-info {
+    margin-top: 24px;
+}
+
+.profile-container.profile-description {
+    margin-top: 24px;
+}
+
+.profile-description {
+    padding-left: 24px;
+}
+
+.description-title {
+    margin-top: 24px;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.description-ex-title {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 12px;
+}
+
+.description-ex {
+    margin-top: 12px;
+}
+
+.experience-title {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skill-title {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.skill-container {
+    text-align: center;
+}
+
+.training-title {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 12px;
+}
+
+.training-description {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.training-course {
+    margin-bottom: 36px;
+}
